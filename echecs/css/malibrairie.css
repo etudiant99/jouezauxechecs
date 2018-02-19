@@ -1,0 +1,22 @@
+#fenetresurgissante {
+    width: 300px;
+    text-align: center;
+    padding: 0;
+    border-spacing : 0;
+    border-collapse : collapse;
+}
+#fenetre {
+    position: relative;
+    padding: 20px;
+    border: 1px solid #000;
+}
+#imagebouton {
+    position: absolute;
+    top: -15px;
+    right: -15px;
+    border: 0;
+}
+a
+{
+	text-decoration: none;
+}

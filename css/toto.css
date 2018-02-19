@@ -1,0 +1,38 @@
+
+header {
+    height: 115px;
+    background-color: #b5b3de;
+    font-size: 25px;
+    border-radius:20px;
+}
+
+.petitecran {
+    width: 970px;
+    margin: auto;
+    text-align: center;
+}
+
+.echiquier
+{
+    border: 1px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+form {
+    height: 100px;
+    font-size: 20px;
+    color: black;
+    padding:15px;
+}
+
+legend {
+ color:#DF3F3F;
+ font-weight:bold;
+ }
+ 
+label {
+ margin-top:10px;
+ }
+
